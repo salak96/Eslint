@@ -42,6 +42,7 @@
 ```
 "rules": {
   "no-console": "warn"
+  }
 ```
 
 # Untuk mematikan peraturan pada baris tertentu, kita bisa menambahkan comment seperti eslint-disable-next-line rule-name:
